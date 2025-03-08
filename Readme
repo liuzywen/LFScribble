@@ -8,7 +8,7 @@ Code：
 
 链接: https://pan.baidu.com/s/1hBSJKd9fydl2ekDCYgJYUA 提取码: 5ihi 
 
-
+Please cite:
 @article{liu2024lfsamba,
   title={LFSamba: Marry SAM With Mamba for Light Field Salient Object Detection},
   author={Liu, Zhengyi and Wang, Longzhen and Fang, Xianyong and Tu, Zhengzheng and Wang, Linbo},
@@ -17,3 +17,6 @@ Code：
   pages={3144--3148},
   publisher={IEEE}
 }
+
+
+Email: liuzywen@ahu.edu.cn
